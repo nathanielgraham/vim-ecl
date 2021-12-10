@@ -7,7 +7,7 @@ This vim plugin provides ECL file detection and syntax highlighting.
 ## Manual install
 Simply copy the syntax and ftdetect folders to `~/.vim` (or `$HOME/vimfiles` on Windows).
 
-## Other instll methods
+## Other install methods
 You can also install vim-ecl using:
 
 * [Pathogen](https://github.com/tpope/vim-pathogen)
