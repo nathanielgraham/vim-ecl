@@ -4,8 +4,10 @@ Vim plugin for Enterprise Control Language (ECL)
 ## Description
 This vim plugin provides ECL file detection and syntax highlighting.
 
-## Installation
-Simply extract the files to `~/.vim` (or `$HOME/vimfiles` on Windows).
+## Manual install
+Simply copy the syntax and ftdetect folders to `~/.vim` (or `$HOME/vimfiles` on Windows).
+
+## Other instll methods
 You can also install vim-ecl using:
 
 * [Pathogen](https://github.com/tpope/vim-pathogen)
