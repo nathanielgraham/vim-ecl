@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language: Enterprise Control Language (ECL)	
-" Maintainer: Nathaniel Graham <Nathaniel.Graham@lexisnexisrisk.com>
+" Maintainer: Nathaniel Graham 
 " Latest Revision: 9 December 2021
 
 if exists("b:current_syntax")
